@@ -34,4 +34,4 @@
 </p>
 <h3>:fire: My Stats :</h3>
 
-[![My stats](https://github-readme-streak-stats.herokuapp.com/?user=Max2288)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Max2288&theme=dark)](https://git.io/streak-stats)
