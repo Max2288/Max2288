@@ -34,4 +34,4 @@
 </p>
 <h3>:fire: My Stats :</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Max2288&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Max2288&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
