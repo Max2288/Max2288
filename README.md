@@ -18,17 +18,17 @@
 - :mailbox:How to reach me: <a href="https://t.me/maxbzb">Telegram</a>
 <h3 align="left">Language and tools:</h3>
 <p align="left">
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="" height="40" width="50" />
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="" height="40" width="50" />
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="" height="40" width="50" />
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="" height="40" width="50" />
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="" height="40" width="50" />
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="" height="40" width="50" />
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="" height="40" width="50" />
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="" height="40" width="50" />
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="" height="40" width="50" />
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="" height="40" width="50" />
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="" height="40" width="50" />
+<a href="https://www.python.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="" height="40" width="50" /></a>
+<a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="" height="40" width="50" /></a>
+<a href="https://opensource.com/article/19/10/programming-bash-syntax-tools"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="" height="40" width="50" /></a>
+<a href="https://www.djangoproject.com/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="" height="40" width="50" /></a>
+<a href="https://www.postgresql.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="" height="40" width="50" /></a>
+<a href="https://www.qt.io/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="" height="40" width="50" /></a>
+<a href="https://html5.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="" height="40" width="50" /></a>
+<a href="https://www.css3.com/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="" height="40" width="50" /></a>
+<a href="https://boostrap.com/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="" height="40" width="50" /></a>
+<a href="https://www.docker.com/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="" height="40" width="50" /></a>
+<a href="https://graphql.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="" height="40" width="50" /></a>
 
   
 </p>
