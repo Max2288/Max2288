@@ -15,7 +15,7 @@
 
 - :zap: In my free time, I solve freelance problems and read tech articles.
 
-- :mailbox:How to reach me: <a href="https://t.me/maxbzb">Telegram</a>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/max-bezborodov-501470267/))
 <h3 align="left">Language and tools:</h3>
 <p align="left">
 <a href="https://www.python.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="" height="40" width="50" /></a>
